@@ -3,4 +3,6 @@ line 2
 line 3
 
  remote
+ new content
+ 
  
